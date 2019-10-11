@@ -1,10 +1,10 @@
 package com.wen.gmall.user.service.impl;
 
-import com.wen.gmall.user.entity.UmsMember;
+import com.alibaba.dubbo.config.annotation.Service;
+import com.wen.gmall.user.bean.UmsMember;
 import com.wen.gmall.user.mapper.UmsMemberMapper;
 import com.wen.gmall.user.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
 
 import java.util.List;
 

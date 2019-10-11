@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/gmall-02-common-util/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-06-manage-web/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-06-mange-web/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-01-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-02-api/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-03-common-util/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-04-service-util/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-05-web-util/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-06-mange-service/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-07-manage-web/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-user/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/gmall-01-parent/gmall-07-manage-web/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-06-manage-web/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

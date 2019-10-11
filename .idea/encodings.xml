@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/gmall-01-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall-01-parent/gmall-07-manage-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall-03-common-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall-04-service-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall-05-web-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall-06-manage-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall-06-mange-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall-07-manage-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall-user" charset="UTF-8" />
+  </component>
+</project>
